@@ -1,0 +1,7 @@
+Website home is at "hw4/index.php".
+
+Form pages are "hw4/forward.php" and "hw4/create.php".
+
+Pages connected to MySQL database is "hw4/create.php" as the 'C' of CRUD and "hw4/list.php" to read the database being the 'R' of CRUD.
+
+The variables for ports and connecting to MySQL is in the "hw4/config.php" file.
